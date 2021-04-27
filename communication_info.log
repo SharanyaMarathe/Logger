@@ -1,0 +1,5 @@
+Date	   SystemTime   Device  Direction   Data
+27/04/2021 10:14:44     COM1	 -->  ,      HI
+27/04/2021 10:14:44     COM2	 -->  ,      HELLO
+27/04/2021 10:14:46     COM2	 <--  ,      GOOD  MORNING
+27/04/2021 10:14:48     COM1	 <--  ,      GOOD DAY IT IS
